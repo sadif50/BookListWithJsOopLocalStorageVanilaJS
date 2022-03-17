@@ -1,0 +1,17 @@
+.success,
+.error,
+.delete {
+    color: #fff;
+    padding: 5px;
+    margin: 5px 0 15px 0;
+    border-radius: 5px;
+}
+.success{
+    background-color: #115a11;
+}
+.error {
+    background-color: #ff4800;
+}
+.delete {
+    background-color: #db2626;
+}
